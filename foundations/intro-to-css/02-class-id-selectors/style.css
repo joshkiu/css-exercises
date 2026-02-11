@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+p {
+    background-color: rgb(255, 183, 241);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#second-element {
+    color: blue;
+    font-size: 36px;
+}
