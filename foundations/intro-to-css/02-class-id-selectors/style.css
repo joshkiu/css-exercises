@@ -8,3 +8,12 @@ p {
     color: blue;
     font-size: 36px;
 }
+
+.standard-font-size {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: rgb(189, 255, 201);
+    font-weight: bold;
+}
