@@ -1,16 +1,17 @@
 /* Add CSS Styling */
 
-.button {
+.invert,
+.active {
     font-size: 28px;
     font-family: "Helvetica", "Times New Roman", "sans-serif"
     
 }
 
-#button1 {
+.invert {
     background-color: black;
     color: white
 }
 
-#button2 {
+.active {
     background-color: yellow;
 }
